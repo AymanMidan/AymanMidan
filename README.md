@@ -35,7 +35,7 @@
 
 ### 🚀 Highlighted Projects
 
-- (Coming) **Computer Vision for autonomous vehicles**  
+- 🚗👁️ (Coming) **Computer Vision for autonomous vehicles**  
   → Obstacles detection and trajectory correction 
 
 - 🔐 **Federated Learning for IoT Networks**  
