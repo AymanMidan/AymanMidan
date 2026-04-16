@@ -65,7 +65,7 @@
 ### 🤝 Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/ayman midan" target="_blank">
+<a href="[https://linkedin.com/in/aymanmidan](https://www.linkedin.com/in/ayman-m-8386b5227/)" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
@@ -73,7 +73,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
-<a href="https://github.com/AymanMidan" target="_blank">
+<a href="https://github.com/AymanMidan" target="blank">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 </p>
