@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Machine%20Learning%20%26%20AI-Security%20Focused-FF2E63?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning%20%26%20AI-Security%20Focused-00BFA6?style=for-the-badge" />
 </p>
 
 <p align="center">
