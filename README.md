@@ -26,6 +26,36 @@
 
 ---
 
+### 🚀 Highlighted Projects
+
+- 🔐 **Federated Learning for IoT Networks**  
+  → Privacy-preserving distributed learning system for IoT environments  
+
+- ⚠️ **Adversarial Attacks on AI Models**  
+  → Studying vulnerabilities and robustness of ML models under attacks  
+
+- 🌐 **Network & Systems Projects**  
+  → Practical implementations using Linux, networking, and security tools  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AymanMidan&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanMidan&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AymanMidan&theme=tokyo-night" />
+</p>
+
+---
+
 ### 🤝 Connect with Me
 
 <p align="left">
@@ -59,26 +89,13 @@
 
 ### 📈 Current Focus
 
-```text
-✔ Federated Learning
-✔ Adversarial Machine Learning
-✔ Secure AI Systems
-✔ IoT + AI Integration
-
-
+- ✔ Federated Learning  
+- ✔ Adversarial Machine Learning  
+- ✔ Secure AI Systems  
+- ✔ IoT + AI Integration  
 
 ---
 
-### Why this is better (quick insight)
+### ⚡ Fun Fact
 
-- Cleaner hierarchy → recruiter reads in 10 seconds
-- Strong positioning → “security + AI” is rare and valuable
-- Less clutter → icons grouped instead of spammed
-- More “engineer vibe” → concise, intentional wording
-
----
-
-If you want, I can push it even further:
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
-- :contentReference[oaicite:2]{index=2}
+> I don’t just build AI models — I try to break them too 🔥
