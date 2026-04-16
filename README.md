@@ -1,115 +1,111 @@
-<h1 align="center">Hi 👋, I'm Ayman Midan</h1>
-<p align="center">
-<img src="https://img.shields.io/badge/Applied%20Maths%20%26%20CS-ENSIMAG%20%7C%20Grenoble%20INP-blue?style=for-the-badge" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://img.shields.io/badge/Machine%20Learning%20%26%20AI-Security%20Focused-orange?style=for-the-badge" />
-</p>
+<!-- Fonts from Google -->
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@400;600;800&display=swap" rel="stylesheet">
 
-<p align="center">
-🚀 Building intelligent systems with a strong focus on security and real-world impact
-</p>
+<h1>Hi, I'm <strong>Ayman Midan</strong> 👋</h1>
 
----
+<p><code>Applied Mathematics & CS · ENSIMAG / Grenoble INP</code></p>
 
-### 🧠 About Me
+<p><em>Building intelligent systems with a sharp focus on security and real-world impact</em></p>
 
-- 🔭 Currently working on **Federated Learning for IoT Networks** & **Adversarial Attacks on AI Models**
-- 💡 Interested in **Machine Learning, Generative AI, Cybersecurity, and Systems**
-- 🧩 Strong focus on **secure and robust AI systems**
-- 📫 Reach me at: **aymanmidan2005@gmail.com**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=flat-square)
+![Adversarial AI](https://img.shields.io/badge/Adversarial%20AI-orange?style=flat-square)
+![Federated Learning](https://img.shields.io/badge/Federated%20Learning-blueviolet?style=flat-square)
+![IoT Security](https://img.shields.io/badge/IoT%20Security-green?style=flat-square)
+
+</div>
 
 ---
 
-### 🌐 Portfolio & Resume
+## 🧠 About Me
 
-- 👨‍💻 Projects:  
-  👉 https://github.com/AymanMidan?tab=repositories  
-
-- 📄 Resume:  
-  👉 https://drive.google.com/file/d/1O-69M9cqpHQzqZ1avC79q4tUmJUCTn5a/view?usp=drive_link  
-
----
-
-### 🚀 Highlighted Projects
-
-- 🔐 **Federated Learning for IoT Networks**  
-  → Privacy-preserving distributed learning system for IoT environments  
-
-- ⚠️ **Adversarial Attacks on AI Models**  
-  → Studying vulnerabilities and robustness of ML models under attacks  
-
-- 🌐 **Network & Systems Projects**  
-  → Practical implementations using Linux, networking, and security tools  
+| | |
+|---|---|
+| 🔭 **Current Work** | Federated Learning for IoT & Adversarial Attacks on AI Models |
+| 💡 **Interests** | ML, Generative AI, Cybersecurity & Systems |
+| 🧩 **Focus** | Secure & robust AI systems |
+| 📫 **Contact** | aymanmidan2005@gmail.com |
 
 ---
 
-### 📊 GitHub Stats
+## 🌐 Portfolio & Resume
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AymanMidan&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanMidan&layout=compact&theme=tokyonight" />
-</p>
+- 👨‍💻 **Projects:** [github.com/AymanMidan](https://github.com/AymanMidan?tab=repositories)
+- 📄 **Resume:** [View on Google Drive](https://drive.google.com/file/d/1O-69M9cqpHQzqZ1avC79q4tUmJUCTn5a/view?usp=drive_link)
 
 ---
 
-### 🔥 Contribution Graph
+## 🚀 Highlighted Projects
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AymanMidan&theme=tokyo-night" />
-</p>
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔐 Federated Learning for IoT
+Privacy-preserving distributed learning system for IoT environments — training across devices without exposing raw data.
+
+![Federated ML](https://img.shields.io/badge/Federated%20ML-blue?style=flat-square)
+![IoT](https://img.shields.io/badge/IoT-green?style=flat-square)
+![Privacy](https://img.shields.io/badge/Privacy-blueviolet?style=flat-square)
+
+</td>
+<td width="33%" valign="top">
+
+### ⚠️ Adversarial Attacks on AI
+Studying vulnerabilities and robustness of ML models under adversarial conditions — attacking and defending simultaneously.
+
+![Adversarial ML](https://img.shields.io/badge/Adversarial%20ML-orange?style=flat-square)
+![Robustness](https://img.shields.io/badge/Robustness-blue?style=flat-square)
+
+</td>
+<td width="33%" valign="top">
+
+### 🌐 Network & Systems
+Practical implementations using Linux, networking protocols, and security tools in real-world scenarios.
+
+![Linux](https://img.shields.io/badge/Linux-blueviolet?style=flat-square)
+![Networking](https://img.shields.io/badge/Networking-green?style=flat-square)
+![Security](https://img.shields.io/badge/Security-orange?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤝 Connect with Me
+## 📊 GitHub Stats
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AymanMidan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanMidan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AymanMidan&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
+</div>
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages & Core**
 <p>
-<a href="[https://linkedin.com/in/aymanmidan](https://www.linkedin.com/in/ayman-m-8386b5227/)" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="mailto:aymanmidan2005@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-
-<a href="https://github.com/AymanMidan" target="blank">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,java,bash,c" />
 </p>
 
----
-
-### ⚙️ Tech Stack
-
-#### 💻 Languages & Core
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,bash" />
-</p>
-
-#### 🧰 Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,git,mysql,mongodb" />
-</p>
-
-#### 📊 Data Science & AI
+**AI & Data Science**
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
 </p>
 
----
-
-### 📈 Current Focus
-
-- ✔ Federated Learning  
-- ✔ Adversarial Machine Learning  
-- ✔ Secure AI Systems  
-- ✔ IoT + AI Integration  
+**Tools & Systems**
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,mysql,mongodb" />
+</p>
 
 ---
 
-### ⚡ Fun Fact
-
-> I don’t just build AI models — I try to break them too 🔥
+## 📈 Current Focus
