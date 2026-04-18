@@ -16,7 +16,7 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently working on **Federated Learning for IoT Networks** & **Adversarial Attacks on AI Models**
+- 🔭 Currently working on **Federated UnLearning for IoT Networks** & **Adversarial Attacks on AI Models**
 - 💡 Interested in **Machine Learning, Generative AI, Cybersecurity, and Systems**
 - 🧩 Strong focus on **secure and robust AI systems**
 - 📫 Reach me at: **aymanmidan2005@gmail.com**
@@ -108,7 +108,7 @@
 ### 📈 Current Focus
 
 - ✔ Deep Learning 
-- ✔ Federated Learning 
+- ✔ Federated UnLearning 
 - ✔ Adversarial Machine Learning
 - ✔ Generative AI  
 - ✔ Secure AI Systems    
