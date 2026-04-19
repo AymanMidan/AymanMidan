@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Machine%20Learning%20%26%20AI-00C9A7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Security%20Focused-FF8C00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning%20%26%20AI-1F3A5F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Security%20Focused-E67E22?style=for-the-badge" />
 </p>
 
 <p align="center">
