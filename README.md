@@ -77,7 +77,7 @@
   → Obstacles detection and trajectory correction 
 
 
-- 🔐 **Federated Learning for IoT Networks**  
+- 🔐 **Federated UnLearning for IoT Networks**  
   → Privacy-preserving distributed learning system for IoT environments  
 
 
