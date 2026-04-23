@@ -134,26 +134,20 @@
 
 <p>
 
-<a href="https://linkedin.com/in/ayman-midan" target="_blank" style="text-decoration: none;">
-
+<a href="[https://linkedin.com/in/ayman-midan](https://www.linkedin.com/in/ayman-m-8386b5227/)" target="_blank" style="text-decoration: none;">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-
 </a>
 
 
 
 <a href="mailto:aymanmidan2005@gmail.com" style="text-decoration: none;">
-
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-
 </a>
 
 
 
 <a href="https://github.com/AymanMidan" target="_blank" style="text-decoration: none;">
-
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
-
 </a>
 
 </p>
