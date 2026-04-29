@@ -73,7 +73,7 @@
 ### 🚀 Highlighted Projects
 
 
-- 🚗👁️ (Coming) **Computer Vision for autonomous vehicles**  
+- 🚗👁️ (Coming) **Computer Vision for Autonomous eVTOL Drones**  
   → Obstacles detection and trajectory correction 
 
 
