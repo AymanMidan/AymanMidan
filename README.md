@@ -62,7 +62,7 @@
 
 - 📄 Resume:  
 
-  👉 https://drive.google.com/file/d/1O-69M9cqpHQzqZ1avC79q4tUmJUCTn5a/view?usp=drive_link  
+  👉 [https://drive.google.com/file/d/1O-69M9cqpHQzqZ1avC79q4tUmJUCTn5a/view?usp=drive_link ](https://drive.google.com/file/d/1ikeHCQHyrdeJFUybh_v08ld3tbs2rG6k/view?usp=sharing) 
 
 
 
