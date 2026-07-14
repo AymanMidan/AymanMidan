@@ -3,12 +3,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Applied%20Maths%20%26%20CS-Grenoble%20INP%20Ensimag-2ECC71?style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ML%2FDL-Generative%20AI%20·%20Data%20Science-1F3A5F?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Systems-Research%20Oriented-E67E22?style=flat-square" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=2ECC71&center=true&vCenter=true&width=600&lines=Applied+Maths+%26+CS+%40+Grenoble+INP+Ensimag;Machine+Learning+%26+Deep+Learning;Generative+AI+%26+Data+Science;AI+Systems+%26+Research" alt="Typing SVG" />
 </p>
 
 
