@@ -3,19 +3,18 @@
 
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Applied%20Maths%20%26%20CS-Grenoble INP Ensimag-2ECC71?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/🎓%20Applied%20Maths%20%26%20CS-Grenoble%20INP%20Ensimag-2ECC71?style=for-the-badge" />
 </p>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠%20Machine%20Learning%20%26%20Deep%20Learning-1F3A5F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖%20Generative%20AI-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📈%20Data%20Science-3498DB?style=for-the-badge" />
+</p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning%20%26%20AI-1F3A5F?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Security%20Focused-E67E22?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/⚙️%20AI%20Systems-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔬%20Research%20Oriented-E74C3C?style=for-the-badge" />
 </p>
 
 
