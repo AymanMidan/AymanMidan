@@ -73,8 +73,8 @@
 ### 🚀 Highlighted Projects
 
 
-- 🚗👁️ (Coming) **Computer Vision for Autonomous eVTOL Drones**  
-  → Obstacles detection and trajectory correction 
+- 🚗👁️ **Computer Vision for Autonomous eVTOL Drones**  
+  → Obstacles detection under degraded visibility conditions. 
 
 
 - 🔐 **Federated UnLearning for IoT Networks**  
