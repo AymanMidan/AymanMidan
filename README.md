@@ -3,7 +3,16 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=2ECC71&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayman+Midan;Applied+Maths+%26+CS+%40+Grenoble+INP+Ensimag;Machine+Learning+%26+Deep+Learning;Generative+AI+%26+Data+Science;AI+Systems+%26+Research" alt="Typing SVG" />
+  <code>Applied Mathematics & Computer Science</code><br>
+  <b>Grenoble INP Ensimag</b>
+</p>
+
+<p align="center">
+  <code>ML/DL</code> · <code>Generative AI</code> · <code>Data Science</code>
+</p>
+
+<p align="center">
+  <i>AI Systems · Research Oriented</i>
 </p>
 
 
