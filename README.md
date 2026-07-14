@@ -3,18 +3,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓%20Applied%20Maths%20%26%20CS-Grenoble%20INP%20Ensimag-2ECC71?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🧠%20Machine%20Learning%20%26%20Deep%20Learning-1F3A5F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖%20Generative%20AI-6A1B9A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📈%20Data%20Science-3498DB?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⚙️%20AI%20Systems-2C3E50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔬%20Research%20Oriented-E74C3C?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=2ECC71&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayman+Midan;Applied+Maths+%26+CS+%40+Grenoble+INP+Ensimag;Machine+Learning+%26+Deep+Learning;Generative+AI+%26+Data+Science;AI+Systems+%26+Research" alt="Typing SVG" />
 </p>
 
 
