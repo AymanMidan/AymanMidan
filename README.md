@@ -22,7 +22,7 @@
 
 <p align="center">
 
-🚀 Building intelligent systems with a strong focus on security and real-world impact
+🚀 Building intelligent systems with a strong focus on reliability and real-world impact
 
 </p>
 
@@ -34,13 +34,13 @@
 
 ### 🧠 About Me
 
+- 🔬 Deeply passionate about **Machine Learning, Deep Learning, and Generative AI** — from model architecture to real-world deployment
 
+- 🤖 Exploring the frontiers of **secure and trustworthy AI**, with a focus on robustness, privacy, and reliability in distributed systems
 
-- 🔭 Currently working on **Federated UnLearning for IoT Networks** & **Adversarial Attacks on AI Models**
+- 🧪 Previously worked on **Federated UnLearning** and **Adversarial Attack/Defense strategies** — building and breaking models to better understand their vulnerabilities
 
-- 💡 Interested in **Machine Learning, Generative AI, Cybersecurity, and Systems**
-
-- 🧩 Strong focus on **secure and robust AI systems**
+- ⚙️ Enjoy bridging the gap between **AI theory and systems engineering** — making intelligent systems not only smarter but also safer
 
 - 📫 Reach me at: **aymanmidan2005@gmail.com**
 
