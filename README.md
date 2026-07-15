@@ -50,7 +50,7 @@
 
 - 📄 Resume:  
 
-  👉 [[https://drive.google.com/file/d/17-HWNFUGL9-lWnjrKrRRSI6QHppbuy1q/view?usp=sharing](https://drive.google.com/file/d/1q2DdwMrUFF1OVNgWSbkHzMeWZIvtBGvP/view?usp=drive_link) ](https://drive.google.com/file/d/17-HWNFUGL9-lWnjrKrRRSI6QHppbuy1q/view?usp=drive_link)
+  👉 https://drive.google.com/file/d/17-HWNFUGL9-lWnjrKrRRSI6QHppbuy1q/view?usp=sharing
 
 
 
