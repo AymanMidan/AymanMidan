@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=2ECC71&center=true&vCenter=true&width=600&lines=Applied+Maths+%26+CS+%40+Grenoble+INP+Ensimag;Machine+Learning+%26+Deep+Learning;Generative+AI+%26+Data+Science;AI+Systems+%26+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=2ECC71&center=true&vCenter=true&width=600&lines=Applied+Maths+%26+CS+%40+INPT;Machine+Learning+%26+Deep+Learning;Generative+AI+%26+Data+Science;AI+Systems+%26+Research" alt="Typing SVG" />
 </p>
 
 
@@ -50,7 +50,7 @@
 
 - 📄 Resume:  
 
-  👉 [https://drive.google.com/file/d/17-HWNFUGL9-lWnjrKrRRSI6QHppbuy1q/view?usp=sharing](https://drive.google.com/file/d/1q2DdwMrUFF1OVNgWSbkHzMeWZIvtBGvP/view?usp=drive_link) 
+  👉 [[https://drive.google.com/file/d/17-HWNFUGL9-lWnjrKrRRSI6QHppbuy1q/view?usp=sharing](https://drive.google.com/file/d/1q2DdwMrUFF1OVNgWSbkHzMeWZIvtBGvP/view?usp=drive_link) ](https://drive.google.com/file/d/17-HWNFUGL9-lWnjrKrRRSI6QHppbuy1q/view?usp=drive_link)
 
 
 
