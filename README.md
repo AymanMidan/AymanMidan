@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=0891B2&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Deep+Learning;Generative+AI+%26+Data+Science;AI+Systems+%26+Research" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=7C3AED&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Deep+Learning;Generative+AI+%26+Data+Science;AI+Systems+%26+Research" alt="Typing SVG">
 </p>
 
 <p align="center">
