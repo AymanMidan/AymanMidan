@@ -13,197 +13,205 @@
 </p>
 
 <p align="center">
-  🚀 Building intelligent systems with a strong focus on reliability and real-world impact
+  🚀 <strong>Building intelligent systems with a strong focus on reliability and real-world impact.</strong>
 </p>
 
-
-
----
-
-
-
-### 🧠 About Me
-
-- 🔬 Deeply passionate about **Machine Learning, Deep Learning, and Generative AI** — from model architecture to real-world deployment
-
-- 🤖 Exploring the frontiers of **secure and trustworthy AI**, with a focus on robustness, privacy, and reliability in distributed systems
-
-- 🧪 Previously worked on **Federated UnLearning** and **Adversarial Attack/Defense strategies** — building and breaking models to better understand their vulnerabilities
-
-- ⚙️ Enjoy bridging the gap between **AI theory and systems engineering** — making intelligent systems not only smarter but also safer
-
-- 📫 Reach me at: **aymanmidan2005@gmail.com**
-
-
+<p align="center">
+  <a href="https://github.com/AymanMidan?tab=repositories">💻 Projects</a>
+  &nbsp;•&nbsp;
+  <a href="https://drive.google.com/file/d/17-HWNFUGL9-lWnjrKrRRSI6QHppbuy1q/view?usp=sharing">📄 Resume</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/ayman-m-8386b5227/">💼 LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:aymanmidan2005@gmail.com">📧 Email</a>
+</p>
 
 ---
 
+## 🧠 About Me
 
+I'm an engineering student at **ENSIMAG**, passionate about **Artificial Intelligence, Machine Learning, and reliable AI systems**.
 
-### 🌐 Portfolio & Resume
+My interests sit at the intersection of:
 
+* 🤖 **Machine Learning & Deep Learning**
+* 🧬 **Generative AI & Data Science**
+* 🔐 **Secure, Robust & Trustworthy AI**
+* 🌐 **Distributed & Federated Learning**
+* ⚙️ **AI Systems & Engineering**
 
-
-- 👨‍💻 Projects:  
-
-  👉 https://github.com/AymanMidan?tab=repositories  
-
-
-
-- 📄 Resume:  
-
-  👉 https://drive.google.com/file/d/17-HWNFUGL9-lWnjrKrRRSI6QHppbuy1q/view?usp=sharing
-
-
+I enjoy working across the full pipeline — from **understanding model architectures and training models** to **evaluating their robustness and deploying intelligent systems in real-world environments**.
 
 ---
 
+## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
 
-### 🚀 Highlighted Projects
+### 🛩️ Computer Vision for Autonomous eVTOL
 
+Object detection under **degraded visibility conditions** for autonomous aerial systems.
 
-- 🚗👁️ **Computer Vision for Autonomous eVTOL Drones**  
-  → Obstacles detection under degraded visibility conditions. 
+**Focus:** Robust Computer Vision · YOLO · Adverse Conditions
 
+</td>
 
-- 🔐 **Federated UnLearning for IoT Networks**  
-  → Privacy-preserving distributed learning system for IoT environments  
+<td width="50%">
 
+### 🔐 Federated UnLearning for IoT
 
-- ⚠️ **Adversarial Attacks on AI Models**  
-  → Studying vulnerabilities and robustness of ML models under attacks  
+Privacy-preserving distributed learning with **machine unlearning capabilities** for IoT environments.
 
+**Focus:** Federated Learning · Privacy · Distributed AI
 
-- 🌐 **Network & Systems Projects**  
-  → Practical implementations using Linux, networking, and security tools  
+</td>
+</tr>
 
+<tr>
+<td width="50%">
 
+### 🛡️ Adversarial Machine Learning
+
+Studying how AI models behave under **adversarial attacks** and developing strategies to improve their robustness.
+
+**Focus:** AI Security · Robustness · Attack & Defense
+
+</td>
+
+<td width="50%">
+
+### 🤖 Generative AI
+
+Exploring **generative models and LLM-based systems**, with an interest in their reliability, security and real-world applications.
+
+**Focus:** Generative AI · LLMs · AI Systems
+
+</td>
+</tr>
+</table>
 
 ---
 
-
-
-### 📊 GitHub Stats
-
-
+## 🔬 Research Interests
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AymanMidan&theme=tokyonight" />
+
+`Machine Learning`  
+`Deep Learning`  
+`Generative AI`  
+`Robust AI`  
+`Secure AI`  
+`Federated Learning`  
+`Computer Vision`
+
+</p>
+
+My current research interests revolve around one central question:
+
+> **How can we build AI systems that are not only intelligent, but also reliable, secure and robust in the real world?**
+
+---
+
+## ⚙️ Tech Stack
+
+### 💻 Languages & Core
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,bash" />
+</p>
+
+### 🧰 Tools & Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,mysql,mongodb" />
+</p>
+
+### 🧠 AI & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+Deep Learning
+      ↓
+Robust & Secure AI
+      ↓
+Federated Learning & UnLearning
+      ↓
+Generative AI
+      ↓
+Reliable AI Systems
+```
+
+Currently exploring how these areas can come together to build **more trustworthy intelligent systems**.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AymanMidan&theme=tokyonight" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AymanMidan&theme=tokyonight" />
 </p>
 
+---
 
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AymanMidan&theme=tokyo-night" />
+</p>
 
 ---
 
-
-
-### 🔥 Contribution Graph
-
-
+## 🌐 Portfolio & Resume
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AymanMidan&theme=tokyo-night" />
-
-</p>
-
-
-
----
-
-
-
-### 🤝 Connect with Me
-
-
-
-<p>
-
-<a href="https://www.linkedin.com/in/ayman-m-8386b5227/" target="_blank" style="text-decoration: none;">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<a href="https://github.com/AymanMidan?tab=repositories">
+  <img src="https://img.shields.io/badge/💻_Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-
-
-<a href="mailto:aymanmidan2005@gmail.com" style="text-decoration: none;">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-
-
-
-<a href="https://github.com/AymanMidan" target="_blank" style="text-decoration: none;">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<a href="https://drive.google.com/file/d/17-HWNFUGL9-lWnjrKrRRSI6QHppbuy1q/view?usp=sharing">
+  <img src="https://img.shields.io/badge/📄_View_My_Resume-2ECC71?style=for-the-badge" />
 </a>
 
 </p>
 
-
-
 ---
 
+## 🤝 Connect With Me
 
+<p align="center">
 
-### ⚙️ Tech Stack
-
-
-
-#### 💻 Languages & Core
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,java,bash" />
+<a href="https://www.linkedin.com/in/ayman-m-8386b5227/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:aymanmidan2005@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/AymanMidan">
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 
 </p>
 
-
-
-#### 🧰 Tools & Technologies
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,mysql,mongodb" />
-
-</p>
-
-
-
-#### 📊 Data Science & AI
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-
-</p>
-
-
-
 ---
 
-
-
-### 📈 Current Focus
-
-- ✔ Deep Learning 
-- ✔ Federated UnLearning 
-- ✔ Adversarial Machine Learning
-- ✔ Generative AI  
-- ✔ Secure AI Systems    
-
-
-
----
-
-
-
-### ⚡ Fun Fact
-
-
-
-> I don’t just build AI models — I try to break them too 🔥
-
+<p align="center">
+  <i>"I don't just build AI models — I try to break them too."</i> 🔥
+</p>
