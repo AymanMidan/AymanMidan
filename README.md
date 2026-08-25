@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayman Midan</h1>
 
 <p align="center">
-  <strong>Applied Maths & CS @ ENSIMAG</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&pause=1000000&color=2ECC71&center=true&vCenter=true&width=600&lines=Applied+Maths+%26+CS+%40+ENSIMAG" alt="Applied Maths & CS @ ENSIMAG">
 </p>
 
 <p align="center">
-  <img src="./assets/ENSIMAG_GREAT_PICTURE.png" alt="ENSIMAG" width="220">
+  <img src="./assets/ENSIMAG_GREAT_PICTURE.png" alt="ENSIMAG" width="350">
 </p>
 
 <p align="center">
