@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/ENSIMAG_GREAT_PICTURE.png" alt="ENSIMAG" width="350">
+  <img src="./assets/ensimag_photo.webp" alt="ENSIMAG" width="350">
 </p>
 
 <p align="center">
