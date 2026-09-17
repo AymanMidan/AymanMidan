@@ -254,14 +254,6 @@ but also reliable, secure and robust in the real world?</strong>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AymanMidan&theme=tokyonight"/>
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AymanMidan&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
-<br>
-
 <!-- ===================== CONNECTION ===================== -->
 
 <h2>🤝 Let's Connect</h2>
