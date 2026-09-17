@@ -279,9 +279,5 @@ but also reliable, secure and robust in the real world?</strong>
 <!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,50:312E81,100:0F172A&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <i>“I don't just build AI models — I try to break them too.”</i> 🔥
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,50:312E81,100:0F172A&height=150&section=footer&text=“I%20don't%20just%20build%20AI%20models%20—%20I%20try%20to%20break%20them%20too.”%20🔥&fontSize=20&fontColor=FFFFFF&fontAlignY=75" width="100%"/>
 </p>
