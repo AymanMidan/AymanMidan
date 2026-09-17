@@ -257,7 +257,7 @@ but also reliable, secure and robust in the real world?</strong>
 <br>
 
 <p align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=AymanMidan&theme=tokyo-night&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=AymanMidan&theme=tokyonight&hide_border=true)" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AymanMidan&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 <br>
