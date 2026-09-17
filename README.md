@@ -1,39 +1,43 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:2ECC71&height=160&section=header&text=Ayman%20Midan&fontSize=46&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Secure%20AI&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:2ECC71&height=180&section=header&text=Ayman%20Midan&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Secure%20AI&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=1000000&color=2ECC71&center=true&vCenter=true&width=700&height=35&lines=Applied+Maths+%26+CS+%40+ENSIMAG" alt="Applied Maths & CS @ ENSIMAG"><br>
-  <img src="./assets/ensimag_photo.webp" alt="ENSIMAG" width="180"><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=700&color=3B82F6&center=true&vCenter=true&width=700&height=35&lines=Machine+Learning+%26+Deep+Learning;Generative+AI+%26+Data+Science;AI+Systems+%26+Research" alt="AI Interests">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=1000000&color=2ECC71&center=true&vCenter=true&width=700&height=30&lines=Applied+Maths+%26+CS+%40+ENSIMAG" alt="Applied Maths & CS @ ENSIMAG">
+</p>
+
+<p align="center">
+  <img src="./assets/ensimag_photo.webp" alt="ENSIMAG" width="220">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=700&color=4F46E5&center=true&vCenter=true&width=700&height=30&lines=Machine+Learning+%26+Deep+Learning;Generative+AI+%26+Data+Science;AI+Systems+%26+Research" alt="AI Interests">
 </p>
 
 <p align="center">
   <strong>🚀 Building intelligent systems with a strong focus on reliability and real-world impact.</strong>
 </p>
 
-<!-- ===================== BUTTONS ===================== -->
-
 <p align="center">
-  <a href="https://github.com/AymanMidan?tab=repositories">
-    <img src="https://img.shields.io/badge/💻%20PROJECTS-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/17-HWNFUGL9-lWnjrKrRRSI6QHppbuy1q/view?usp=sharing">
-    <img src="https://img.shields.io/badge/📄%20RESUME-2ECC71?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ayman-m-8386b5227/">
-    <img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:aymanmidan2005@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://github.com/AymanMidan?tab=repositories">
+  <img src="https://img.shields.io/badge/💻%20PROJECTS-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://drive.google.com/file/d/17-HWNFUGL9-lWnjrKrRRSI6QHppbuy1q/view?usp=sharing">
+  <img src="https://img.shields.io/badge/📄%20RESUME-2ECC71?style=for-the-badge&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ayman-m-8386b5227/">
+  <img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:aymanmidan2005@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 <br>
 
-<!-- ===================== ABOUT & FOCUS ===================== -->
+<!-- ===================== ABOUT ===================== -->
 
 <h2>🧠 About Me</h2>
 
@@ -57,9 +61,11 @@ but also reliable, secure and robust in the real world?</strong>
 
 <br>
 
+<!-- ===================== CURRENT FOCUS ===================== -->
+
 <h2>🎯 Current Focus</h2>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td align="center" width="20%">
 <h3>🧠</h3>
@@ -106,7 +112,7 @@ Object detection for autonomous aerial systems operating under
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Computer%20Vision-3B82F6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-4F46E5?style=flat-square"/>
 <img src="https://img.shields.io/badge/YOLO-0F172A?style=flat-square"/>
 <img src="https://img.shields.io/badge/Robustness-2ECC71?style=flat-square"/>
 </p>
@@ -123,7 +129,7 @@ Privacy-preserving distributed learning with
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Federated%20Learning-3B82F6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Federated%20Learning-4F46E5?style=flat-square"/>
 <img src="https://img.shields.io/badge/Privacy-2ECC71?style=flat-square"/>
 <img src="https://img.shields.io/badge/IoT-0F172A?style=flat-square"/>
 </p>
@@ -159,7 +165,7 @@ Exploring generative models and LLM-based systems with an emphasis on
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/GenAI-3B82F6?style=flat-square"/>
+<img src="https://img.shields.io/badge/GenAI-4F46E5?style=flat-square"/>
 <img src="https://img.shields.io/badge/LLMs-0F172A?style=flat-square"/>
 <img src="https://img.shields.io/badge/AI%20Systems-2ECC71?style=flat-square"/>
 </p>
@@ -221,15 +227,19 @@ Exploring generative models and LLM-based systems with an emphasis on
 <h2>🤝 Let's Connect</h2>
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/ayman-m-8386b5227/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:aymanmidan2005@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/AymanMidan">
   <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 <br>
