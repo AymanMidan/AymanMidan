@@ -74,7 +74,7 @@ but also reliable, secure and robust in the real world?</strong>
 
 <td align="center" width="20%">
 <h3>🛡️</h3>
-<strong>Robust<br>AI</strong>
+<strong>Data<br>Science</strong>
 </td>
 
 <td align="center" width="20%">
@@ -89,7 +89,7 @@ but also reliable, secure and robust in the real world?</strong>
 
 <td align="center" width="20%">
 <h3>🔐</h3>
-<strong>Secure<br>AI</strong>
+<strong>Robust<br>AI</strong>
 </td>
 </tr>
 </table>
@@ -161,7 +161,7 @@ Studying vulnerabilities of ML models under
 
 <p>
 Exploring generative models and LLM-based systems with an emphasis on
-<strong>reliability, security and practical applications</strong>.
+<strong>GANs/VAEs, Diffusion Models and practical applications</strong>.
 </p>
 
 <p>
